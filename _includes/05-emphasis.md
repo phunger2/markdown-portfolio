@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* Algorithms **and** Data Structures
+* C/C++
+* Communication and *soft skills*
